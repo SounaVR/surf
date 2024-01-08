@@ -17,6 +17,7 @@ sudo make clean install
 ```
 
 Use `surf [url]` to open the browser. (I use [dmenu](https://github.com/SounaVR/dmenu.git) to open it)
+
 (<kbd>CTRL+G</kbd>) to browse.
 
 Can be [patch](https://surf.suckless.org/patches/).
